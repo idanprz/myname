@@ -1,0 +1,2 @@
+# myname
+ print my name
